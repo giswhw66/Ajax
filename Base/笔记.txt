@@ -27,4 +27,6 @@
     在一个表单中，有多个项目需要发送ajax请求进行验证的时候，必须等待所有的表单验证完毕后才能允许
     用户点击注册，此时只支持同步ajax机制
 
+9、案例项目下载：链接：https://pan.baidu.com/s/1UtW-XeDfRnoSSv9MJYFqkw  提取码：497j
+
 
